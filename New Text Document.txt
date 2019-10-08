@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 sadfsdfs
 sadas21321
+=======
+>>>>>>> parent of 5deaa96... Da chinh sua !
